@@ -162,6 +162,10 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
+	small {
+		font-size: 85%;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
@@ -192,6 +196,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.15em;
 		line-height: 1.75em;
+		margin-top: 50px;
 	}
 
 		@media screen and (max-width: 736px) {
